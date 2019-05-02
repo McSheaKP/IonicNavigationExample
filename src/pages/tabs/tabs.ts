@@ -13,7 +13,11 @@ export class TabsPage {
   tab1Root = HomePage;
   tab2Root = AboutPage;
   tab3Root = ContactPage;
+<<<<<<< HEAD
   tab4Root = NewpagePage;
+=======
+  tab4Root = SettingsPage;
+>>>>>>> b650676f216edb6e524a58839894f7a4c29b660f
   //Add another page here
 
   constructor() {
